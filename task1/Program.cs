@@ -6,6 +6,7 @@ Console.WriteLine(a);
 
 int c = a%100;
 c = c/10;
-Console.Write(" второе число = ");
-Console.Write(c);
 
+Console.Write(" второй знак = ");
+Console.Write(c);
+ 
